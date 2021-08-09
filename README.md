@@ -10,11 +10,11 @@ This software is a Matlab implementation of proposed method, highly specialized 
 
 ### [Paper]
 
-The main technical ideas behind how this program works appear in these papers:
+<!-- The main technical ideas behind how this program works appear in these papers: -->
 
 Jaesung Lee, and Dae-Won Kim, [“Memetic Feature Selection Algorithm for Multi-label Classification,”](https://www.sciencedirect.com/science/article/pii/S0020025514009268) Information Sciences, 293, 2015.
-
-Zexuan Zhu et al. [“Wrapper-Filter Feature Selection Algorithm Using a Memetic Framework,”](https://ieeexplore.ieee.org/document/4067093) IEEE Transactions on Systems, Man, and Cybernetics, Part B: Cybernetics, 37, 2007.
+<!-- 
+Zexuan Zhu et al. [“Wrapper-Filter Feature Selection Algorithm Using a Memetic Framework,”](https://ieeexplore.ieee.org/document/4067093) IEEE Transactions on Systems, Man, and Cybernetics, Part B: Cybernetics, 37, 2007. -->
 
 ## License
 
